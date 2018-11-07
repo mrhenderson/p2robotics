@@ -28,6 +28,8 @@ Goodbye!
 */
 
 
+// VERY IMPORTANT! Remember to include the fclose statement and only do it once after
+// everything has been written to the file.
 
 fclose(fpt);
  
